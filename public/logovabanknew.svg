@@ -1,0 +1,164 @@
+<svg xmlns:mydata="http://www.w3.org/2000/svg" mydata:contrastcolor="000000" mydata:template="Contrast"
+    mydata:presentation="2.5" mydata:layouttype="undefined" mydata:specialfontid="undefined" mydata:id1="229"
+    mydata:id2="228" mydata:companyname="vabank.dev" mydata:companytagline="AI your growth" version="1.1"
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="height: 550px;"
+    viewBox="0 0 550 470">
+    <g fill="#af11c3" fill-rule="none" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter"
+        stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none"
+        font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+        <g
+            data-paper-data="{&quot;isGlobalGroup&quot;:true,&quot;bounds&quot;:{&quot;x&quot;:65,&quot;y&quot;:199.01813834348116,&quot;width&quot;:420,&quot;height&quot;:71.96372331303769}}">
+            <g data-paper-data="{&quot;isSecondaryText&quot;:true}" fill-rule="nonzero" id="element-id-90155">
+                <path
+                    d="M192.49301,263.22683l-3.48104,-12.17916h-3.82285l-3.49004,12.17916h2.8514l0.67462,-2.59954h3.7419l0.67462,2.59954zM187.09604,253.08053l1.4302,5.45094h-2.8514z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;A&quot;,&quot;glyphIndex&quot;:0,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:1}"
+                    fill="#af11c3" id="element-id-4191"></path>
+                <path d="M205.48533,251.04767h-2.6715v12.17916h2.6715z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;I&quot;,&quot;glyphIndex&quot;:1,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:1}"
+                    fill="#af11c3" id="element-id-77018"></path>
+                <path
+                    d="M233.75913,251.04767l-2.16778,5.23506l-2.17678,-5.23506h-2.74346l3.57999,7.8346v4.34456h2.6715v-4.34456l3.58898,-7.8346z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;Y&quot;,&quot;glyphIndex&quot;:2,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:2}"
+                    fill="#af11c3" id="element-id-28307"></path>
+                <path
+                    d="M247.46376,259.30504c0,2.69848 1.90693,4.1017 4.66838,4.1017c2.77044,0 4.68637,-1.40321 4.68637,-4.1017v-4.33556c0,-2.68949 -1.91592,-4.1017 -4.68637,-4.1017c-2.76145,0 -4.66838,1.41221 -4.66838,4.1017zM250.14426,254.90651c0,-1.19633 0.7106,-1.93391 1.98788,-1.93391c1.27728,0 1.99688,0.73759 1.99688,1.93391v4.46149c0,1.19633 -0.7196,1.94291 -1.99688,1.94291c-1.27728,0 -1.98788,-0.74658 -1.98788,-1.94291z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;O&quot;,&quot;glyphIndex&quot;:3,&quot;word&quot;:2}"
+                    fill="#af11c3" id="element-id-14898"></path>
+                <path
+                    d="M275.37917,251.04767v8.43726c0,1.03442 -0.72859,1.72703 -1.87994,1.72703c-1.15135,0 -1.88894,-0.70161 -1.88894,-1.72703v-8.43726h-2.6715v8.41927c0,2.47361 1.73602,3.93979 4.56044,3.93979c2.82441,0 4.56044,-1.46618 4.56044,-3.93979v-8.41927z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;U&quot;,&quot;glyphIndex&quot;:4,&quot;word&quot;:2}"
+                    fill="#af11c3" id="element-id-39017"></path>
+                <path
+                    d="M290.64343,251.04767v12.17916h2.6715v-3.9128h1.51115l1.87095,3.9128h2.88738l-2.26673,-4.38054c1.20532,-0.5307 2.05984,-1.6011 2.05984,-3.24718v-0.78256c0,-2.47361 -1.82597,-3.76888 -4.34456,-3.76888zM294.95201,253.15249c1.0704,0 1.76301,0.57568 1.76301,1.64608v0.82754c0,1.07939 -0.69261,1.66407 -1.76301,1.66407h-1.63708v-4.13768z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;R&quot;,&quot;glyphIndex&quot;:5,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:2}"
+                    fill="#af11c3" id="element-id-89605"></path>
+                <path
+                    d="M330.37837,257.12826h-2.34768v3.9128c-0.3508,0.09894 -0.74658,0.15291 -1.20532,0.15291c-1.41221,0 -2.23974,-0.67462 -2.23974,-2.06884v-3.75089c0,-1.41221 0.98045,-2.23974 2.64451,-2.23974c0.97145,0 1.98788,0.25186 2.52758,0.44075l0.40477,-2.14979c-0.61166,-0.24286 -1.781,-0.55769 -3.2112,-0.55769c-2.89637,0 -5.04617,1.47517 -5.04617,4.35355v3.98476c0,2.77044 2.00587,4.20064 4.6234,4.20064c1.49316,0 2.95934,-0.30583 3.84984,-0.68362z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;G&quot;,&quot;glyphIndex&quot;:6,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:3}"
+                    fill="#af11c3" id="element-id-69667"></path>
+                <path
+                    d="M342.33651,251.04767v12.17916h2.6715v-3.9128h1.51115l1.87095,3.9128h2.88738l-2.26673,-4.38054c1.20532,-0.5307 2.05984,-1.6011 2.05984,-3.24718v-0.78256c0,-2.47361 -1.82597,-3.76888 -4.34456,-3.76888zM346.64509,253.15249c1.0704,0 1.76301,0.57568 1.76301,1.64608v0.82754c0,1.07939 -0.69261,1.66407 -1.76301,1.66407h-1.63708v-4.13768z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;R&quot;,&quot;glyphIndex&quot;:7,&quot;word&quot;:3}"
+                    fill="#af11c3" id="element-id-5638"></path>
+                <path
+                    d="M362.53828,259.30504c0,2.69848 1.90693,4.1017 4.66838,4.1017c2.77044,0 4.68637,-1.40321 4.68637,-4.1017v-4.33556c0,-2.68949 -1.91592,-4.1017 -4.68637,-4.1017c-2.76145,0 -4.66838,1.41221 -4.66838,4.1017zM365.21878,254.90651c0,-1.19633 0.7106,-1.93391 1.98788,-1.93391c1.27728,0 1.99688,0.73759 1.99688,1.93391v4.46149c0,1.19633 -0.7196,1.94291 -1.99688,1.94291c-1.27728,0 -1.98788,-0.74658 -1.98788,-1.94291z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;O&quot;,&quot;glyphIndex&quot;:8,&quot;word&quot;:3}"
+                    fill="#af11c3" id="element-id-83586"></path>
+                <path
+                    d="M397.1475,251.04767l-1.86195,9.42671l-1.84396,-9.24681h-2.57256l-1.81698,9.24681l-1.88894,-9.42671h-2.8424l2.71647,12.17916h3.47205l1.64608,-7.8256l1.65507,7.8256h3.47205l2.71647,-12.17916z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;W&quot;,&quot;glyphIndex&quot;:9,&quot;word&quot;:3}"
+                    fill="#af11c3" id="element-id-70444"></path>
+                <path d="M414.56857,263.22683h2.68049v-9.95741h3.14823v-2.22175h-8.98595v2.22175h3.15723z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;T&quot;,&quot;glyphIndex&quot;:10,&quot;word&quot;:3}"
+                    fill="#af11c3" id="element-id-82389"></path>
+                <path
+                    d="M441.32724,263.22683v-12.17916h-2.6715v4.91124h-4.14667v-4.91124h-2.6715v12.17916h2.6715v-4.92923h4.14667v4.92923z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;H&quot;,&quot;glyphIndex&quot;:11,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:3}"
+                    fill="#af11c3" id="element-id-64249"></path>
+            </g>
+            <g data-paper-data="{&quot;isPrimaryText&quot;:true}" id="element-id-68745">
+                <path
+                    d="M181.98395,237.09537h16.96313l5.76701,-30.5021h-12.02963l-2.20769,20.6351l-2.23021,-20.6351h-12.07469z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;V&quot;,&quot;glyphIndex&quot;:0,&quot;firstGlyphOfWord&quot;:true,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-86908"></path>
+                <path
+                    d="M238.06216,237.09537l-7.3214,-30.5021h-15.65654l-7.36646,30.5021h11.84941l0.72088,-4.84339h5.20383l0.72088,4.84339zM222.90122,214.77071l1.37417,9.3714h-2.77087z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;A&quot;,&quot;glyphIndex&quot;:1,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-16175"></path>
+                <path
+                    d="M244.44492,237.09537h12.86314c8.19997,0 12.25491,-3.22142 12.25491,-8.85327c0,-2.7934 -1.75714,-5.24888 -4.48295,-6.578c2.29779,-1.28406 3.60438,-3.31153 3.60438,-5.8346c0,-5.63185 -3.44669,-9.23623 -11.37634,-9.23623h-12.86314zM257.19543,225.2009c1.1489,0 1.66703,0.9011 1.66703,1.93736c0,1.05879 -0.56318,1.86977 -1.66703,1.86977h-2.59065v-3.80713zM256.72235,214.6806c1.17142,0 1.66703,0.85604 1.66703,1.80219c0,0.99121 -0.54066,1.77966 -1.66703,1.77966h-2.11758v-3.58186z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;B&quot;,&quot;glyphIndex&quot;:2,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-42039"></path>
+                <path
+                    d="M305.16377,237.09537l-7.3214,-30.5021h-15.65654l-7.36646,30.5021h11.84941l0.72088,-4.84339h5.20383l0.72088,4.84339zM290.00283,214.77071l1.37417,9.3714h-2.77087z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;A&quot;,&quot;glyphIndex&quot;:3,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-45901"></path>
+                <path
+                    d="M327.40582,206.59327v12.70545l-5.22636,-12.70545h-10.63293v30.5021h10.63293v-12.70545l5.22636,12.70545h10.63293v-30.5021z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;N&quot;,&quot;glyphIndex&quot;:4,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-5088"></path>
+                <path
+                    d="M360.39345,206.59327l-2.34285,10.38513h-0.96868v-10.38513h-11.08348v30.5021h11.08348v-10.88073h0.9011l2.83845,10.88073h11.80436l-5.45163,-15.0483l5.13625,-15.4538z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;K&quot;,&quot;glyphIndex&quot;:5,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-67678"></path>
+                <path
+                    d="M383.62676,226.90997c-4.11714,0 -6.1757,1.90081 -6.1757,5.70242c0,3.80164 2.05857,5.70245 6.1757,5.70245c4.11688,0 6.17532,-1.90082 6.17532,-5.70245c0,-3.80162 -2.05844,-5.70242 -6.17532,-5.70242zM383.62676,236.77698c-3.09189,0 -4.63783,-1.38819 -4.63783,-4.16458c0,-2.77637 1.54594,-4.16455 4.63783,-4.16455c3.09163,0 4.63745,1.38818 4.63745,4.16455c0,2.77639 -1.54582,4.16458 -4.63745,4.16458z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;.&quot;,&quot;glyphIndex&quot;:6,&quot;fontStyleEffect&quot;:true,&quot;word&quot;:1}"
+                    fill-rule="evenodd" fill="#af11c3" id="element-id-21273"></path>
+                <path
+                    d="M396.09186,237.09537h12.86314c8.53788,0 12.72798,-3.22142 12.72798,-9.867v-10.29502c0,-6.64558 -4.1901,-10.34008 -12.72798,-10.34008h-12.86314zM408.84237,214.90588c1.1489,0 1.6445,0.65329 1.6445,1.37417v11.17359c0,0.7434 -0.4956,1.32912 -1.6445,1.32912h-1.66703v-13.87688z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;D&quot;,&quot;glyphIndex&quot;:7,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-75264"></path>
+                <path
+                    d="M450.75084,228.10693h-10.70051v-2.20769h9.77689v-8.08734h-9.77689v-2.20769h10.24997v-9.01096h-21.33345v30.5021h21.784z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;E&quot;,&quot;glyphIndex&quot;:8,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-21351"></path>
+                <path
+                    d="M462.26985,237.09537h16.96313l5.76701,-30.5021h-12.02963l-2.20769,20.6351l-2.23021,-20.6351h-12.07469z"
+                    data-paper-data="{&quot;glyphName&quot;:&quot;V&quot;,&quot;glyphIndex&quot;:9,&quot;lastGlyphOfWord&quot;:true,&quot;word&quot;:1}"
+                    fill-rule="nonzero" fill="#af11c3" id="element-id-44730"></path>
+            </g>
+            <g data-paper-data="{&quot;fillRule&quot;:&quot;nonzero&quot;,&quot;fillRuleOriginal&quot;:&quot;nonzero&quot;,&quot;isIcon&quot;:true,&quot;iconStyle&quot;:&quot;standalone&quot;,&quot;selectedEffects&quot;:{&quot;container&quot;:&quot;&quot;,&quot;transformation&quot;:&quot;&quot;,&quot;pattern&quot;:&quot;&quot;},&quot;bounds&quot;:{&quot;x&quot;:65,&quot;y&quot;:199.01813834348116,&quot;width&quot;:82.73674306760574,&quot;height&quot;:71.96372331303769},&quot;iconType&quot;:&quot;initial&quot;,&quot;initialText&quot;:&quot;V&quot;,&quot;rawInitialId&quot;:750,&quot;suitableAsStandaloneIcon&quot;:true}"
+                fill-rule="nonzero" id="element-id-66887">
+                <path
+                    d="M65,199.01814h14.50766l26.86072,55.73238l26.86072,-55.73238h14.50766l-34.76092,71.96372h-13.21489z"
+                    data-paper-data="{&quot;isPathIcon&quot;:true}" fill="#af11c3" id="element-id-82093"></path>
+            </g>
+        </g>
+    </g>
+    <rect data-element-id="element-id-68745" stroke-width="2" fill="transparent"
+        class="invisible-element-box grouping-element" x="176" y="207" width="309" height="32"
+        data-element-name="isPrimaryText"></rect>
+    <rect data-element-id="element-id-66887" stroke-width="2" fill="transparent"
+        class="invisible-element-box grouping-element" x="65" y="199" width="83" height="72" data-element-name="isIcon">
+    </rect>
+    <rect data-element-id="element-id-82093" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="65" y="199" width="83" height="72"></rect>
+    <rect data-element-id="element-id-90155" stroke-width="2" fill="transparent"
+        class="invisible-element-box grouping-element" x="182" y="251" width="260" height="13"
+        data-element-name="isSecondaryText"></rect>
+    <rect data-element-id="element-id-16175" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="208" y="207" width="30" height="31"></rect>
+    <rect data-element-id="element-id-45901" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="275" y="207" width="30" height="31"></rect>
+    <rect data-element-id="element-id-86908" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="176" y="207" width="29" height="31"></rect>
+    <rect data-element-id="element-id-44730" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="456" y="207" width="29" height="31"></rect>
+    <rect data-element-id="element-id-67678" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="346" y="207" width="27" height="31"></rect>
+    <rect data-element-id="element-id-5088" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="312" y="207" width="26" height="31"></rect>
+    <rect data-element-id="element-id-75264" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="396" y="207" width="26" height="31"></rect>
+    <rect data-element-id="element-id-42039" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="244" y="207" width="25" height="31"></rect>
+    <rect data-element-id="element-id-21351" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="429" y="207" width="22" height="31"></rect>
+    <rect data-element-id="element-id-70444" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="384" y="251" width="16" height="12"></rect>
+    <rect data-element-id="element-id-4191" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="182" y="251" width="11" height="12"></rect>
+    <rect data-element-id="element-id-21273" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="377" y="227" width="12" height="11"></rect>
+    <rect data-element-id="element-id-28307" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="227" y="251" width="10" height="12"></rect>
+    <rect data-element-id="element-id-14898" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="247" y="251" width="9" height="13"></rect>
+    <rect data-element-id="element-id-83586" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="363" y="251" width="9" height="13"></rect>
+    <rect data-element-id="element-id-39017" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="269" y="251" width="9" height="12"></rect>
+    <rect data-element-id="element-id-89605" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="291" y="251" width="9" height="12"></rect>
+    <rect data-element-id="element-id-5638" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="342" y="251" width="9" height="12"></rect>
+    <rect data-element-id="element-id-82389" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="411" y="251" width="9" height="12"></rect>
+    <rect data-element-id="element-id-64249" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="432" y="251" width="9" height="12"></rect>
+    <rect data-element-id="element-id-69667" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="322" y="251" width="8" height="13"></rect>
+    <rect data-element-id="element-id-77018" stroke-width="2" fill="transparent"
+        class="invisible-element-box individual-element" x="203" y="251" width="3" height="12"></rect>
+</svg>

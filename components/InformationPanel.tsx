@@ -1,5 +1,6 @@
 import { MoonIcon, SunIcon } from "@heroicons/react/solid";
 import Image from "next/image";
+import Link from "next/link";
 
 import CityPicker from "./CityPicker";
 
@@ -88,6 +89,21 @@ const InformationPanel = ({ city, lat, long, results }: Props) => {
                 hour12: true,
               })}
             </p>
+          </div>
+        </div>
+      </div>
+
+      <hr className="my-10 mb-5" />
+
+      <div className="space-y-2 py-5">
+        <div className="flex items-center space-x-2 px-4 py-3">
+          <div className="text-white">
+            <h1 className="font-light">
+              Developed by{" "}
+              <Link href="https://www.piotrmaciejewski.com" className="font-bold hover:text-rose-500" target="_blank">
+                Piotr
+              </Link>
+            </h1>
           </div>
         </div>
       </div>
